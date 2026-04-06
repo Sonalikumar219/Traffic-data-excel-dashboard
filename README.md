@@ -1,5 +1,14 @@
 # Traffic-data-excel-dashboard
 Overview The Traffic Data Dashboard provides insights into website performance using Excel pivot tables and raw traffic logs. It helps track visitor behavior, campaign effectiveness, and conversion performance across multiple channels.
+
+
+https://github.com/user-attachments/assets/6182f5f6-f447-4aed-bbf7-5b5f304ba9e9
+
+
+
+
+
+
 Key Metrics
 - Bounce Rate %
 - Goal Conversion Rate %
